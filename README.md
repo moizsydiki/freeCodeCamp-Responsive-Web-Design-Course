@@ -19,24 +19,24 @@ The Responsive Web Design course is part of freeCodeCamp's curriculum, designed 
 This repository includes the following projects completed as part of the course:
 
 1. <a href="https://github.com/moizsydiki/freeCodeCamp/blob/main/catPhotoApp.html">Learn HTML by Building a Cat Photo App</a>
-2. Learn Basic CSS by Building a Cafe Menu
+2. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Camper%20Cafe">Learn Basic CSS by Building a Cafe Menu</a>
 3. Product Landing Page
-4. Learn HTML Forms by Building a Registration Form
+4. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Registration%20Form">Learn HTML Forms by Building a Registration Form</a>
 5. Survey Form (Certification Project)
-6. Learn the CSS Box Model by Building a Rothko Painting
-7. Learn CSS Flexbox by Building a Photo Gallery
+6. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Rothko%20Painting">Learn the CSS Box Model by Building a Rothko Painting</a>
+7. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Building%20a%20Photo%20Gallery">Learn CSS Flexbox by Building a Photo Gallery</a>
 8. Learn Typography by Building a Nutrition Label
-9. Learn Accessibility by Building a Quiz
+9. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/HTML%20CSS%20Quiz">Learn Accessibility by Building a Quiz</a>
 10. Tribute Page (Certification Project)
-11. Learn More About CSS Pseudo Selectors by Building A Balance Sheet
-12. Learn Intermediate CSS by Building a Cat Painting
-13. Learn Responsive Web Design by Building a Piano
+11. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Balance%20Sheet">Learn More About CSS Pseudo Selectors by Building A Balance Sheet</a>
+12. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Cat%20Painting">Learn Intermediate CSS by Building a Cat Painting</a>
+13. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Piano">Learn Responsive Web Design by Building a Piano</a>
 14. Technical Documentation Page (Certification Project)
-15. Learn CSS Variables by Building a City Skyline
-16. Learn CSS Grid by Building a Magazine
+15. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Skyline%20Buildings">Learn CSS Variables by Building a City Skyline</a>
+16. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Magazine">Learn CSS Grid by Building a Magazine</a>
 17. Product Landing Page (Certification Project)
-18. Learn CSS Animation by Building a Ferris Wheel
-19. Learn CSS Transforms by Building a Penguin
+18. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Ferris%20Wheel">Learn CSS Animation by Building a Ferris Wheel</a>
+19. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Penguin">Learn CSS Transforms by Building a Penguin</a>
 20. Personal Portfolio Webpage (Certification Project)
 
 Each project is designed to demonstrate understanding and application of the concepts covered in the course.
