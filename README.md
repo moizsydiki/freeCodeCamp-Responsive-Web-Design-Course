@@ -46,7 +46,7 @@ Each project is designed to demonstrate understanding and application of the con
 Upon completing all projects and challenges in the Responsive Web Design course, you can earn a freeCodeCamp certification. Visit the freeCodeCamp website for more information on certification and verification.
 
 ## Resources
-<a href="https://www.freecodecamp.org/">freeCodeCamp</a>
+<a href="https://www.freecodecamp.org/">freeCodeCamp</a> <br />
 <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design Certification</a>
 
 
