@@ -18,7 +18,7 @@ The Responsive Web Design course is part of freeCodeCamp's curriculum, designed 
 
 This repository includes the following projects completed as part of the course:
 
-1. Learn HTML by Building a Cat Photo App
+1. <a href="https://github.com/moizsydiki/freeCodeCamp/blob/main/catPhotoApp.html">Learn HTML by Building a Cat Photo App</a>
 2. Learn Basic CSS by Building a Cafe Menu
 3. Product Landing Page
 4. Learn HTML Forms by Building a Registration Form
