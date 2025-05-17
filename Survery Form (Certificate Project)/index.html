@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="title">freeCodeCamp Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+    <form id="survey-form" method="post">
+    <label for="name-label" id="name-label" >Name <input placeholder="Enter your Name" id="name" required type="text" ></label>
+    <label id="email-label" for="email-label" >Email <input placeholder="Enter your Email" required type="email" id="email"></label>
+    <label id="number-label" for="number" >Age <input placeholder="Enter you Age" required id="number" type="number" name="age" min="10" max="99"></label>
+    <label>Which option best describes your current role?
+    <select id="dropdown">
+        <option value="">Select current role</option>
+        <option value="1">Student</option>
+        <option value="2">Full time job</option>
+        <option value="3">Full time learner</option>
+        <option value="4">Prefer not to say</option>
+        <option value="5">Other</option>
+    </label>
+    <label for="definitely">Would you recommend freeCodeCamp to a friend?<input id="definitely" type="radio" name="recommend" value="Definitely" />Definitely</label>
+    <label for="maybe"><input id="maybe" type="radio" name="recommend" value="Maybe"/> Maybe</label>
+    <label for="notSure"><input id="notSure" type="radio" name="recommend" value="NotSure"/>Not sure</label>
+    <label>What is your favorite feature of freeCodeCamp?
+        <select id="dropdown">
+            <option value="">Select an option</option>
+            <option value="1">Challenges</option>
+            <option value="2">Projects</option>
+            <option value="3">Community</option>
+            <option value="4">Open Source</option>
+            <option value="5">Other</option>
+        </label>
+        <label for="suggestions">What would you like to see improved? (Check all that apply)</label>
+        <input id="suggestions" type="checkbox" required name="suggestions" value="back-end" />Front-end Projects
+        <input id="suggestions" type="checkbox" required name="suggestions" value="front-end" />back-end Projects
+        <label for="bio">Provide a bio:
+          <textarea id="bio" name="bio" rows="3" cols="30" placeholder="I like coding on the beach..."></textarea>
+        </label>
+        <input type="submit" value="Submit" id="submit" />
+    </form>
+    
+</body>
+</html>
