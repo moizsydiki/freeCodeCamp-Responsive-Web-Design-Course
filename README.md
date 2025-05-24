@@ -27,14 +27,14 @@ This repository includes the following projects completed as part of the course:
 7. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Building%20a%20Photo%20Gallery">Learn CSS Flexbox by Building a Photo Gallery</a>
 8. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Nutrition%20Label">Learn Typography by Building a Nutrition Label</a>
 9. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/HTML%20CSS%20Quiz">Learn Accessibility by Building a Quiz</a>
-10. Tribute Page (Certification Project)
+10. <a href="https://github.com/moizsydiki/freeCodeCamp-Responsive-Web-Design-Course/tree/main/Tribute%20Page%20(Certificate%20Project)"> Tribute Page (Certification Project)</a>
 11. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Balance%20Sheet">Learn More About CSS Pseudo Selectors by Building A Balance Sheet</a>
 12. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Cat%20Painting">Learn Intermediate CSS by Building a Cat Painting</a>
 13. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Piano">Learn Responsive Web Design by Building a Piano</a>
-14. Technical Documentation Page (Certification Project)
+14. <a href="https://github.com/moizsydiki/freeCodeCamp-Responsive-Web-Design-Course/tree/main/Technical%20Documentation%20Page%20(Certificate%20Project)">Technical Documentation Page (Certification Project)</a>
 15. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Skyline%20Buildings">Learn CSS Variables by Building a City Skyline</a>
 16. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Magazine">Learn CSS Grid by Building a Magazine</a>
-17. Product Landing Page (Certification Project)
+17. <a href="https://github.com/moizsydiki/freeCodeCamp-Responsive-Web-Design-Course/tree/main/Product%20Landing%20Page(Certificate%20Project)">Product Landing Page (Certification Project)</a>
 18. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Ferris%20Wheel">Learn CSS Animation by Building a Ferris Wheel</a>
 19. <a href="https://github.com/moizsydiki/freeCodeCamp/tree/main/Penguin">Learn CSS Transforms by Building a Penguin</a>
 20. Personal Portfolio Webpage (Certification Project)
